@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","9907","verifyNegativeLoginFlows","I-Shine Automation Suite","2026-07-23","failed","2026-07-23","com.ishine.tests.LoginTest","Login Tests","com.ishine.tests.LoginTest","verifyNegativeLoginFlows"
+"","24232","verifyForgotPassword_DMS_MAN_0025","I-Shine Automation Suite","2026-07-23","failed","2026-07-23","com.ishine.tests.LoginTest","Login Tests","com.ishine.tests.LoginTest","verifyForgotPassword_DMS_MAN_0025"
+"","4908","verifyNegativeLoginFlows","I-Shine Automation Suite","2026-07-23","passed","2026-07-23","com.ishine.tests.LoginTest","Login Tests","com.ishine.tests.LoginTest","verifyNegativeLoginFlows"
+"","5866","verifyLoginWithTempPassword_DMS_MAN_0022","I-Shine Automation Suite","2026-07-23","failed","2026-07-23","com.ishine.tests.LoginTest","Login Tests","com.ishine.tests.LoginTest","verifyLoginWithTempPassword_DMS_MAN_0022"
